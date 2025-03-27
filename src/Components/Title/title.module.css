@@ -1,0 +1,11 @@
+.introTitle{
+    font-size: 2rem;
+    font-weight: 700;
+    margin-bottom: 1rem;
+    color: #fff;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 0.1rem;
+    font-family: 'Roboto', sans-serif;
+    text-shadow: 2px 2px 2px #f09797;
+}

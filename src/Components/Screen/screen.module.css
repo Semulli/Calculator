@@ -1,0 +1,12 @@
+.screen {
+  border: 1px solid #fff;
+  background-color: #fff;
+  height: 60px;
+  width: 260px;
+  border-radius: 60px;
+  box-shadow: 5px 5px 5px #c2bebe;
+  text-align: right;
+  padding-top: 80px;
+  padding-right: 20px;
+  font-size: 1.5rem;
+}
